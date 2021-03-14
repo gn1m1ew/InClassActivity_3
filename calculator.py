@@ -1,8 +1,9 @@
 # add the following methods addition and substraction
+def add(a, b):
+	return a + b
 
-def addition(a, b):
-    return a + b
+def subtract(a, b):
+	return a - b
 
-
-def subtraction(a, b):
-    return a - b
+def multiply(a, b):
+	return a * b
