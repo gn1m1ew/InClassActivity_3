@@ -1,9 +1,7 @@
 """
 Unit testing the calculator app
 """
-
 import calculator
-
 
 class TestCalculator:
 
